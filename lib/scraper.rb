@@ -29,7 +29,7 @@ class Scraper
     # binding.pry
   end
 
-  def 
+  def
 
   end
 end
